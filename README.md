@@ -106,13 +106,13 @@ Install:
 Open terminal in the project root and run:
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 Windows PowerShell:
 
 ```powershell
-.\mvnw.cmd spring-boot:run
+.\mvn.cmd spring-boot:run
 ```
 
 Application starts at:
