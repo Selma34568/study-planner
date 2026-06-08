@@ -294,7 +294,7 @@ Authorization: Bearer YOUR_TOKEN
 Run all tests:
 
 ```bash
-./mvn test
+mvn test
 ```
 
 Windows:
