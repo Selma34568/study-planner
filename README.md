@@ -294,13 +294,13 @@ Authorization: Bearer YOUR_TOKEN
 Run all tests:
 
 ```bash
-./mvnw test
+./mvn test
 ```
 
 Windows:
 
 ```powershell
-.\mvnw.cmd test
+.\mvn.cmd test
 ```
 
 Test Result:
